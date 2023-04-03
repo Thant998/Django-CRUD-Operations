@@ -1,6 +1,8 @@
 # Django-CRUD-Operations
 Content Discussed :
 
-Django CRUD Operation
-Design Django Form with Bootstrap and crispy forms
-Display DropDown in Django Form
+<ol>
+  <li>Django CRUD Operation</li>
+  <li>Design Django Form with Bootstrap and crispy forms</li>
+  <li>Display DropDown in Django Form</li>
+</ol>
