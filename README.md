@@ -1,4 +1,7 @@
 # Django-CRUD-Operations
+
+<p>Complete Django CRUD Operations with MySQL<p>
+
 Content Discussed :
 
 <ol>
