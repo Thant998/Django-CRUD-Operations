@@ -6,6 +6,6 @@ Content Discussed
 
 <ol>
   <li>Django CRUD Operations</li>
-  <li>Design Django Form with Bootstrap and crispy forms</li>
+  <li>Design Django Form with Bootstrap and Crispy forms</li>
   <li>Display DropDown in Django Form</li>
 </ol>
