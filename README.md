@@ -1,6 +1,6 @@
 # Django-CRUD-Operations
 
-<p>Complete Django CRUD Operations with MySQL:<p>
+<p>Complete Django CRUD Operations with MySQL<p>
 
 Content Discussed 
 
