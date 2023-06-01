@@ -2,7 +2,7 @@
 
 <p>Complete Django CRUD Operations with MySQL<p>
 
-Content Discussed 
+Content Discussed :
 
 <ol>
   <li>Django CRUD Operations</li>
